@@ -73,6 +73,10 @@ input, select, textarea {
 }
 
 /* Basic */
+	.git-hub, .linkedin, .edabit{
+		width: 80%;
+		margin: 3% auto;
+	}
 
 	html {
 		box-sizing: border-box;
@@ -286,6 +290,9 @@ input, select, textarea {
 		}
 
 /* Row */
+	.fa-github {
+		font-size: 6rem;
+	}
 
 	.row {
 		display: flex;
